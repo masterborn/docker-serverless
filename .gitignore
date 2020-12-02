@@ -1,0 +1,25 @@
+# Logs
+logs
+*.log
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+.next
+
+# vim temporaries
+*.sw[p|o|n]
+
+# system files
+.zfs
+.DS_Store
+.*.swp
+*~
+
+# directories used by IDEs
+.idea
+.project
+.settings
+.vscode
