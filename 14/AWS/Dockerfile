@@ -6,6 +6,6 @@ RUN yum install -y nodejs
 
 WORKDIR /src
 
-RUN npm i -g npm
+RUN npm i -g npm@^7.0.0
 
 CMD ["node"]
